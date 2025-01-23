@@ -2,5 +2,5 @@
 - Email: clara_pugh@mines.edu
 - Location: Golden, CO
 
-##Education
+## Education
 - BSc. Geophysics, Colorado School of Mines (2027)
