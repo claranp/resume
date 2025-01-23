@@ -1,6 +1,6 @@
 # Clara Pugh
 - Email: clara_pugh@mines.edu
-- Location: Golden, CO
+- Location: **Golden, CO**
 
 ![photo of me](lizard-pic.jpg)
 
