@@ -4,8 +4,6 @@
 
 ![photo of me](lizard-pic.jpg)
 
-[Hyperlink??](https://elearning.mines.edu/)
-
 ## Education
-- BSc. Geophysics, Colorado School of Mines (2027)
+- BSc. Geophysics, [Colorado School of Mines](https://www.mines.edu/) (2027)
 - Degree in something from somewhere
